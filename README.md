@@ -1,3 +1,3 @@
 # mdMotahar
 Name = Md Motahar <br>
-Studied Till graduation
+Studied Till graduation from AJC
